@@ -1,0 +1,7 @@
+
+9
+java:S16437"Use a StringBuilder instead.(÷Äºë8œˆì›Ö1
+{
+java:S1488M"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ö¤İÎ8«ˆì›Ö1
+M
+java:S1068"0Remove this unused "objectMapper" private field.(ì²š§8Ãì›Ö1

@@ -1,0 +1,10 @@
+
+{
+java:S1488Q"_Immediately return this expression instead of assigning it to the temporary variable "sysUser".(œí8†’ì›Ö1
+X	java:S125 "<This block of commented-out lines of code should be removed.(ˆÀ‘¤8¶’ì›Ö1
+X	java:S125#"<This block of commented-out lines of code should be removed.(ı¾8é’ì›Ö1
+]	java:S125V"<This block of commented-out lines of code should be removed.(œ’“¤øÿÿÿÿ8õ’ì›Ö1
+]	java:S125m"<This block of commented-out lines of code should be removed.(ºÛÁÈıÿÿÿÿ8ı’ì›Ö1
+X	java:S125v"<This block of commented-out lines of code should be removed.(÷„„î8¤“ì›Ö1
+c
+java:S1128"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ8«“ì›Ö1

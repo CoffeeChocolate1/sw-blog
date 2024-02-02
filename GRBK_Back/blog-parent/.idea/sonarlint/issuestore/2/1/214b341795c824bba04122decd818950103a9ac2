@@ -1,0 +1,14 @@
+
+J
+java:S3740,"/Provide the parametrized type for this generic.(£ü‰üÿÿÿÿÿ
+X	java:S125?"<This block of commented-out lines of code should be removed.(è¼¼ñ8éùù«Õ1
+R	java:S125"<This block of commented-out lines of code should be removed.(½Òó¯
+W	java:S125é"<This block of commented-out lines of code should be removed.(È·Ñéýÿÿÿÿ
+z
+java:S1128"XRemove this unused import 'com.baomidou.mybatisplus.core.conditions.query.QueryWrapper'.(ÓÆÂæÿÿÿÿÿ8ˆúù«Õ1
+}
+java:S1128"`Remove this unused import 'com.baomidou.mybatisplus.core.conditions.update.LambdaUpdateWrapper'.(Ñæ²µ8ˆúù«Õ1
+h
+java:S1128"KRemove this unused import 'com.baomidou.mybatisplus.core.toolkit.Wrappers'.(å¦¨Ã8ˆúù«Õ1
+D
+java:S1144·"-Remove this unused private "copyList" method.(†ó“ê

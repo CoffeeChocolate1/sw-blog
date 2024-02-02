@@ -1,0 +1,8 @@
+
+g
+java:S1192,"LDefine a constant instead of duplicating this literal "/login.html" 3 times.(æ³ÔÂùÿÿÿÿ
+L
+java:S6437"6Revoke and change this password, as it is compromised.(äµ·Ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(è¸Åé
+>
+java:S1185"(Remove this method to simply inherit it.(í–ÉŒ
